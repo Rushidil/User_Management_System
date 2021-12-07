@@ -1,6 +1,5 @@
 # User_Management_System
 
-# User_Management_System  
 
 In this assignment, I used to build a full-stack React + Node.js + MySQL CRUD example with Express.CRUD Operation Using React & Node
 
